@@ -1,3 +1,4 @@
 [submodule "reflow-workflows"]
 	path = reflow-workflows
 	url = https://github.com/czbiohub/reflow-workflows
+	branch = olgabot/mergebams
